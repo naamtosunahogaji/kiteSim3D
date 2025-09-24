@@ -1,0 +1,5 @@
+{
+  "name": "KiteSim 3D",
+  "description": "A 3D kite-flying game concept that uses YouTube videos for design, mechanics, and visual inspiration. Fly a virtual kite in a serene environment while watching your favorite kite videos or tutorials side-by-side.",
+  "requestFramePermissions": []
+}
